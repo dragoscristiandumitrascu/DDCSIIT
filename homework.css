@@ -1,0 +1,53 @@
+.imagini{
+    width: 250px;
+    height: 375px;
+    margin: 0 60px;
+}
+
+
+table{
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.denumire{
+    text-align: center;
+    padding: 20px;
+    font-size: larger;
+}
+.star{
+    height: 15px;
+    width: 15px;
+}
+.ratings{
+}
+#thirdRow{
+    text-align: center;
+}
+#fourthRow{
+    text-align: center;
+}
+#fifthRow{
+    text-align: center;
+}
+
+.Cart{
+    background-color: black;
+    color: white;
+    padding: 5px 18px;
+    font-size: 15px;        
+    border: 1px solid black;
+    margin: 10px;
+    
+}
+.View{
+    background-color: white;
+    color: black;
+    padding: 5px 18px;
+    font-size: 15px;
+    border: solid black;
+    margin: 10px rgb(0, 0, 0);
+}
+.font{
+    font-family: Muli;
+}
